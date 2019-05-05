@@ -10,7 +10,7 @@
   "repository": "zhangkaiyulw/graphql-joker",
   "license": "GPL-3.0",
   "bin": {
-    "joker": "lib/joker.js"
+    "jokerKui": "lib/joker.js"
   },
   "files": [
     "lib"
