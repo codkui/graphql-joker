@@ -1,0 +1,9 @@
+input LimitTypeInput {
+  page:Int,
+  num:Int
+}
+input ListSearchInput {
+  limit:LimitTypeInput,
+  sort:Mixed,
+  fitter:Mixed
+}
